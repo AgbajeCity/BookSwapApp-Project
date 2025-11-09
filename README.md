@@ -65,10 +65,3 @@ lib/ ├── features/ │ ├── auth/ # Authentication logic and UI │ �
     ```bash
     flutter run -d web-server
     ```
-
----
-
-## 🛑 Workaround and Trade-offs
-
-**Image Upload (Challenge):**
-Due to current Firebase plan limitations, the actual image upload to Firebase Storage was blocked. A **workaround** was implemented: the app successfully uses `image_picker` (simulated), but instead of uploading, it saves a **public placeholder image URL** to Firestore. This maintained the functionality of the `coverImageUrl` field without incurring billing charges.

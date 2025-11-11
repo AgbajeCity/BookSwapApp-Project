@@ -65,3 +65,7 @@ lib/ ├── features/ │ ├── auth/ # Authentication logic and UI │ �
     ```bash
     flutter run -d web-server
     ```
+
+    Dart Analyzer Report
+<img width="1440" height="900" alt="Screenshot 2025-11-11 at 13 40 57" src="https://github.com/user-attachments/assets/135110db-61c0-4418-999f-b1afa4d1cbb5" />
+

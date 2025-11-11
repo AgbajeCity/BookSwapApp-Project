@@ -67,5 +67,6 @@ lib/ ├── features/ │ ├── auth/ # Authentication logic and UI │ �
     ```
 
     Dart Analyzer Report
-<img width="1440" height="900" alt="Screenshot 2025-11-11 at 13 40 57" src="https://github.com/user-attachments/assets/135110db-61c0-4418-999f-b1afa4d1cbb5" />
+
+<img width="1438" height="756" alt="Screenshot 2025-11-11 at 13 44 02" src="https://github.com/user-attachments/assets/0a247c0b-32d4-41fe-ba7c-9663664f5660" />
 
